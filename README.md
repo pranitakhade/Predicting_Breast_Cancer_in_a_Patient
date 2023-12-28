@@ -1,4 +1,4 @@
-# Predicting_Breat_Cancer_in_a_Patient
+# Predicting Breat Cancer in a Patient
 
 ### Abstract:
 Breast cancer represents one of the diseases that make a high number of deaths every
